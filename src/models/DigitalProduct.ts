@@ -1,3 +1,5 @@
+// ----- Digital Product Subclass ----- //
+
 import { Product } from "./Product.ts";
 
 export class DigitalProduct extends Product {
