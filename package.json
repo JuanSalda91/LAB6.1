@@ -4,10 +4,7 @@
   "description": "",
   "type": "module",
   "main": "main.js",
-  "scripts": {
-    "build": "tsc",
-    "start": "node dist/main.js"
-  },
+
   "keywords": [],
   "author": "",
   "license": "ISC",
